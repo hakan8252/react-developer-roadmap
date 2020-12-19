@@ -1,5 +1,7 @@
 # React Developer Roadmap
 
+# Buraya yeni yazı ekledim
+
 [README in Chinese](README-CN.md)
 
 [README in Japanese](README-JA.md)
